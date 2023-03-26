@@ -1,3 +1,3 @@
 # exercicios-de-logica-c
-Pacote de exercícios básicos feitos em C no meu primeiro trimestre da faculdade.
+Pacote de exercícios de lógica feitos para a faculdade.
 
